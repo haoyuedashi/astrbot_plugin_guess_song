@@ -1,5 +1,6 @@
 name: "astrbot_plugin_guess_song"
-desc: "猜歌游戏 - 听歌识曲群聊互动"
-repo: "群聊听歌识曲互动游戏，支持网易云音乐热门中文歌曲"
+desc: "猜歌游戏听歌识曲群聊互动大冒险真心话"
+repo: "https://github.com/haoyuedashi/astrbot_plugin_guess_song"
 author: "haoyuedashi"
 version: "1.0.0"
+
